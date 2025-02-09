@@ -74,7 +74,7 @@ If there's an error, it will display the issue.
 
 ## 📖 Additional Resources
 - [TON API Documentation](https://ton.org/docs/)
-- [Jetton Standard](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons.md)
+- [Jetton Standard]([https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons.md](https://github.com/EmelyanenkoK/modern_jetton))
 
 ---
 
